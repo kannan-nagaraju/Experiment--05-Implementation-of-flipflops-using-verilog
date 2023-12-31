@@ -201,7 +201,7 @@ endmodule
 ## JK FLIPFLOP
 ![image](https://github.com/kannan-nagaraju/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145742755/184edce4-e0ab-4216-bbf0-ab7623104ef0)
 ## T FLIP FLOP
-![image](https://github.com/kannan-nagaraju/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145742755/f979aaf3-ec2c-405a-b188-99911cd0520b
+![image](https://github.com/kannan-nagaraju/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145742755/6460d586-ca46-451a-a280-3f5a71aa424c)
 
 ### RESULTS 
 Implementation-of-flipflops-using-verilog successfully completed.
